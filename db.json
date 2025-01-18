@@ -1,0 +1,36 @@
+{
+  "donors": [
+    {
+      "fullName": "moses",
+      "age": 48,
+      "bloodType": "B+",
+      "contact": "0124512555",
+      "address": "uiuyuyy",
+      "id": "86b4"
+    },
+    {
+      "id": "da60",
+      "fullName": "wilson bundi",
+      "age": 58,
+      "bloodType": "A+",
+      "contact": "0725252908",
+      "address": "p.o. box"
+    },
+    {
+      "id": "d067",
+      "fullName": "wilson bundi",
+      "age": 21,
+      "bloodType": "O+",
+      "contact": "0725252908",
+      "address": "p.o. box"
+    },
+    {
+      "id": "dca5",
+      "fullName": "joan",
+      "age": 24,
+      "bloodType": "AB+",
+      "contact": "0714978525",
+      "address": "darliassoiftware@gmail.com"
+    }
+  ]
+}

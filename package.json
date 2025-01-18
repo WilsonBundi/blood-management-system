@@ -15,9 +15,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://username.github.io/repository-name",
+  "homepage": "https://github.com/WilsonBundi/blood-management-system",
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.3.0"
   }
 }
-
