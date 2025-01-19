@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WilsonBundi/blood-management-system/static/css/main.4145fbbc.css",
+    "main.js": "/WilsonBundi/blood-management-system/static/js/main.cf37a4a7.js",
+    "index.html": "/WilsonBundi/blood-management-system/index.html",
+    "main.4145fbbc.css.map": "/WilsonBundi/blood-management-system/static/css/main.4145fbbc.css.map",
+    "main.cf37a4a7.js.map": "/WilsonBundi/blood-management-system/static/js/main.cf37a4a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4145fbbc.css",
+    "static/js/main.cf37a4a7.js"
+  ]
+}
